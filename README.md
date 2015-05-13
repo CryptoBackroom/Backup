@@ -19,8 +19,8 @@ Short: FLUX
 Algorithm SHA256
 
 
-RPC Port: 21451
-P2P Port: 21454
+RPC Port: 16020
+P2P Port: 16021
 
 
 
