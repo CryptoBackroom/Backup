@@ -43,7 +43,7 @@ CBigNum bnProofOfStakeLimit(~uint256(0) >> 20);
 CBigNum bnProofOfWorkLimitTestNet(~uint256(0) >> 16);
 
 static const int64_t nTargetTimespan = 60 * 30;  // 30m
-unsigned int nTargetSpacing = 1 * 90; // Flux - 1.5 minute blocks
+unsigned int nTargetSpacing = 1 * 60; // Flux - 1.5 minute blocks
 static const int64_t nInterval = nTargetTimespan / nTargetSpacing;
 static const int64_t nDiffChangeTarget = 1;
 
