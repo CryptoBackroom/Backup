@@ -1232,7 +1232,7 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-    {"seed.flux.ninja", "seed.flux.ninja"},
+    {"45.55.208.212", "45.55.208.212"},
 
 };
 
