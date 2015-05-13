@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Positron</source>
-        <translation>Vad du behöver veta om BPositron</translation>
+        <source>About Flux</source>
+        <translation>Vad du behöver veta om BFlux</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Positron&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Positron&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Flux&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Flux&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Positron developers</source>
+Copyright © 2014 The Flux developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Positron developers</translation>
+Copyright © 2014 The Flux developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Positron addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina Positron adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your Flux addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina Flux adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Positron address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger Positron adressen</translation>
+        <source>Sign a message to prove you own a Flux address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger Flux adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Positron address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik Positron adress</translation>
+        <source>Verify a message to ensure it was signed with a specified Flux address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik Flux adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,8 +264,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-58"/>
-        <source>Positron will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BPositron plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>Flux will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BFlux plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Positron</source>
-        <translation>Visa information om Positron</translation>
+        <source>Show information about Flux</source>
+        <translation>Visa information om Flux</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Positron address</source>
-        <translation>Skicka coins till en Positron adress</translation>
+        <source>Send coins to a Flux address</source>
+        <translation>Skicka coins till en Flux adress</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Positron</source>
-        <translation>Modifiera konfigurations-alternativ för Positron</translation>
+        <source>Modify configuration options for Flux</source>
+        <translation>Modifiera konfigurations-alternativ för Flux</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-200"/>
-        <source>Positron</source>
-        <translation>Positron</translation>
+        <source>Flux</source>
+        <translation>Flux</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Positron</source>
-        <translation>&amp;Om Positron</translation>
+        <source>&amp;About Flux</source>
+        <translation>&amp;Om Flux</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Positron client</source>
-        <translation>Positron klient</translation>
+        <source>Flux client</source>
+        <translation>Flux klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Positron network</source>
-        <translation><numerusform>%n aktiv anslutning till Positron nätverket</numerusform><numerusform>%n aktiva anslutning till Positron nätverket</numerusform></translation>
+        <source>%n active connection(s) to Flux network</source>
+        <translation><numerusform>%n aktiv anslutning till Flux nätverket</numerusform><numerusform>%n aktiva anslutning till Flux nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -660,8 +660,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Positron address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig Positron adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Flux address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig Flux adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,8 +720,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Positron can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. BPositron kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. Flux can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. BFlux kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1015,7 +1015,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna BPositron-adress</translation>
+        <translation>Namnet som kopplats till denna BFlux-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1054,8 +1054,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Positron address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig BPositron adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Flux address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig BFlux adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1073,8 +1073,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Positron-Qt</source>
-        <translation>Positron-Qt</translation>
+        <source>Flux-Qt</source>
+        <translation>Flux-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,13 +1146,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Positron after logging in to the system.</source>
-        <translation>Starta BPositron automatiskt vid inloggning.</translation>
+        <source>Automatically start Flux after logging in to the system.</source>
+        <translation>Starta BFlux automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Positron on system login</source>
-        <translation>&amp;Starta BPositron vid inloggning</translation>
+        <source>&amp;Start Flux on system login</source>
+        <translation>&amp;Starta BFlux vid inloggning</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1171,8 +1171,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Positron client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Positron klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the Flux client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt Flux klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Positron network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till Positron nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the Flux network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till Flux nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Positron.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av Positron.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Flux.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av Flux.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Positron addresses in the transaction list or not.</source>
-        <translation>Om Positron adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show Flux addresses in the transaction list or not.</source>
+        <translation>Om Flux adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Positron.</source>
-        <translation>Inställningen börjar gälla efter omstart av Positron.</translation>
+        <source>This setting will take effect after restarting Flux.</source>
+        <translation>Inställningen börjar gälla efter omstart av Flux.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Positron network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med Positron nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Flux network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med Flux nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Positron-Qt help message to get a list with possible Positron command-line options.</source>
-        <translation>Visa Positron-Qt hjälp meddelandet för att få en lista över möjliga Positron kommandoradsalternativ.</translation>
+        <source>Show the Flux-Qt help message to get a list with possible Flux command-line options.</source>
+        <translation>Visa Flux-Qt hjälp meddelandet för att få en lista över möjliga Flux kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Positron - Debug window</source>
-        <translation>Positron - Felsökningsfönster</translation>
+        <source>Flux - Debug window</source>
+        <translation>Flux - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Positron Core</source>
-        <translation>Positron Core</translation>
+        <source>Flux Core</source>
+        <translation>Flux Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Positron debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Positron felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the Flux debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna Flux felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Positron RPC console.</source>
-        <translation>Välkommen till Positron RPC konsoll.</translation>
+        <source>Welcome to the Flux RPC console.</source>
+        <translation>Välkommen till Flux RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Positron address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Fyll i en Positron adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Flux address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Fyll i en Flux adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Positron address</source>
-        <translation>VARNING: Ogiltig Positron adress</translation>
+        <source>WARNING: Invalid Flux address</source>
+        <translation>VARNING: Ogiltig Flux adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1931,8 +1931,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Positron address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Fyll i en Positron adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Flux address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Fyll i en Flux adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1992,8 +1992,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Positron address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna Positron adressen</translation>
+        <source>Sign the message to prove you own this Flux address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna Flux adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2024,8 +2024,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Positron address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna Positron adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified Flux address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna Flux adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Positron address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Fyll i en Positron adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Flux address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Fyll i en Flux adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Positron signature</source>
-        <translation>Fyll i Positron signatur</translation>
+        <source>Enter Flux signature</source>
+        <translation>Fyll i Flux signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Positron version</source>
-        <translation>Positron version</translation>
+        <source>Flux version</source>
+        <translation>Flux version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Positrond</source>
-        <translation>Skicka kommando till -server eller Positrond</translation>
+        <source>Send command to -server or Fluxd</source>
+        <translation>Skicka kommando till -server eller Fluxd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Positron.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: Positron.conf)</translation>
+        <source>Specify configuration file (default: Flux.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: Flux.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Positrond.pid)</source>
-        <translation>Ange pid filen (standard Positrond.pid)</translation>
+        <source>Specify pid file (default: Fluxd.pid)</source>
+        <translation>Ange pid filen (standard Fluxd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2801,8 +2801,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Positron will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. BPositron kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Flux will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. BFlux kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2991,24 +2991,24 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Positronrpc
+rpcuser=Fluxrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Positron Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Flux Alert&quot; admin@foo.com
 </source>
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=Positronrpc
+rpcuser=Fluxrpc
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.
 Om filen inte finns, skapa den med endast ägarrättigheter.
 Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;Positron Varning&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;Flux Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3133,13 +3133,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Positron Varning&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Positron is probably already running.</source>
-        <translation>Kan inte låsa datan i mappen %s. BPositron är kanske redan startad.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Flux is probably already running.</source>
+        <translation>Kan inte låsa datan i mappen %s. BFlux är kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Positron</source>
-        <translation>Positron</translation>
+        <source>Flux</source>
+        <translation>Flux</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3173,13 +3173,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Positron Varning&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Positron</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av BPositron krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Flux</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av BFlux krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Positron to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om BPositron för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart Flux to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om BFlux för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3248,8 +3248,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Positron Varning&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Positron is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. BPositron är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. Flux is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. BFlux är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-97"/>

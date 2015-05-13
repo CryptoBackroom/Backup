@@ -31,7 +31,7 @@ namespace libzerocoin {
 /// unknown safe primes "e1" and "e2". These factors must not
 /// be known to any party, or the security of Zerocoin is
 /// compromised. The integer "N" must be a MINIMUM of 1023
-/// in length, and 3072 bits is strongly recommended.
+/// in length, and 3072 bits is sFluxgly recommended.
 ///
 
 void

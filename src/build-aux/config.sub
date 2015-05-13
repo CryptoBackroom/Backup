@@ -307,7 +307,7 @@ case $basic_machine in
 	| sparc | sparc64 | sparc64b | sparc64v | sparc86x | sparclet | sparclite \
 	| sparcv8 | sparcv9 | sparcv9b | sparcv9v \
 	| spu \
-	| tahoe | tic4x | tic54x | tic55x | tic6x | tic80 | tron \
+	| tahoe | tic4x | tic54x | tic55x | tic6x | tic80 | Flux \
 	| ubicom32 \
 	| v850 | v850e | v850e1 | v850e2 | v850es | v850e2v3 \
 	| we32k \
@@ -334,7 +334,7 @@ case $basic_machine in
 		basic_machine=mt-unknown
 		;;
 
-	strongarm | thumb | xscale)
+	sFluxgarm | thumb | xscale)
 		basic_machine=arm-unknown
 		;;
 	xgate)
@@ -426,7 +426,7 @@ case $basic_machine in
 	| tahoe-* \
 	| tic30-* | tic4x-* | tic54x-* | tic55x-* | tic6x-* | tic80-* \
 	| tile*-* \
-	| tron-* \
+	| Flux-* \
 	| ubicom32-* \
 	| v850-* | v850e-* | v850e1-* | v850es-* | v850e2-* | v850e2v3-* \
 	| vax-* \
@@ -648,7 +648,7 @@ case $basic_machine in
 		basic_machine=ns32k-ns
 		;;
 	gmicro)
-		basic_machine=tron-gmicro
+		basic_machine=Flux-gmicro
 		os=-sysv
 		;;
 	go32)
@@ -1094,7 +1094,7 @@ case $basic_machine in
 		basic_machine=i860-stratus
 		os=-sysv4
 		;;
-	strongarm-* | thumb-*)
+	sFluxgarm-* | thumb-*)
 		basic_machine=arm-`echo $basic_machine | sed 's/^[^-]*-//'`
 		;;
 	sun2)
