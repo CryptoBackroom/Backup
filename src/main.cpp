@@ -985,7 +985,11 @@ int64_t GetProofOfWorkReward(int64_t nFees)
 {
     int64_t nSubsidy = 1 * COIN;
  
-    if(pindexBest->nHeight < 101)
+    if(pindexBest->nHeight == 2)
+    {
+        nSubsidy = 5 * COIN;
+    }
+    	else if(pindexBest->nHeight < 101)
     {
         nSubsidy = 0 * COIN;
     }
@@ -1029,7 +1033,7 @@ int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
 
         if(pindexBest->nHeight < 4000)
     {
-        nSubsidy = 20 * COIN;
+        nSubsidy = 20 * COIN; 
     }
         else if(pindexBest->nHeight < 6600)
     {
