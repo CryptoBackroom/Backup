@@ -2621,7 +2621,7 @@ bool LoadBlockIndex(bool fAllowNew)
         printf("block.nTime = %u \n", block.nTime);
         printf("block.nNonce = %u \n", block.nNonce);
 
-        assert(block.hashMerkleRoot == uint256("0xd1304ba163f6924f15a0953ec1e7dc98e3ed9e88cf42fe85ce07df831ff45f54"));
+        assert(block.hashMerkleRoot == uint256("0x"));
 
 
 	    block.print();
