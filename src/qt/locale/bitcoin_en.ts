@@ -2703,8 +2703,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 19100)</source>
-        <translation>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 19100)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <translation>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2763,7 +2763,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 19101)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
         <translation></translation>
     </message>
     <message>
