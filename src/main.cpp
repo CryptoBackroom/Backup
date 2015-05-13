@@ -2576,7 +2576,7 @@ bool LoadBlockIndex(bool fAllowNew)
 
 
 
-        const char* pszTimestamp = "10 Apr 2015 - JP Morgan CEO: We Can Learn From Technologies Like Bitcoin";
+        const char* pszTimestamp = "13 May 2015 - Some Relevant News Quote";
         CTransaction txNew;
         txNew.nTime = 1428732721;
         txNew.vin.resize(1);
@@ -2588,7 +2588,7 @@ bool LoadBlockIndex(bool fAllowNew)
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1428732721;
+        block.nTime    = 1431535556;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
         block.nNonce   = 0;
 
