@@ -2634,7 +2634,7 @@ bool LoadBlockIndex(bool fAllowNew)
             // creating a different genesis block:
             uint256 hashTarget = CBigNum().SetCompact(block.nBits).getuint256();
             uint256 thash;
-            char scratchpad[SCRYPT_SCRATCHPAD_SIZE];
+            char scratchpad[131072 + 63];
 
             loop
             {
