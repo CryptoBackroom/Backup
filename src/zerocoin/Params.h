@@ -77,7 +77,7 @@ public:
 	* "e1" and "e2" are safe primes. The factors "e1", "e2" MUST NOT
 	* be known to any party, or the security of Zerocoin is
 	* compromised. The integer "N" must be a MINIMUM of 1024
-	* in length. 3072 bits is sFluxgly recommended.
+	* in length. 3072 bits is sGreedgly recommended.
 	**/
 	AccumulatorAndProofParams();
 
@@ -165,7 +165,7 @@ public:
 	* "e1" and "e2" are safe primes. The factors "e1", "e2" MUST NOT
 	* be known to any party, or the security of Zerocoin is
 	* compromised. The integer "N" must be a MINIMUM of 1024
-	* in length. 3072 bits is sFluxgly recommended.
+	* in length. 3072 bits is sGreedgly recommended.
 	**/
 	Params(Bignum accumulatorModulus,
 	       uint32_t securityLevel = ZEROCOIN_DEFAULT_SECURITYLEVEL);

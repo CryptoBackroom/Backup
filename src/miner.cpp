@@ -523,7 +523,7 @@ void StakeMiner(CWallet *pwallet)
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
 
     // Make this thread recognisable as the mining thread
-    RenameThread("Flux-miner");
+    RenameThread("Greed-miner");
 
     bool fTryToSync = true;
 

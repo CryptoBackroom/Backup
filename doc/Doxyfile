@@ -1168,7 +1168,7 @@ USE_MATHJAX            = NO
 # directory is located at the same level as the HTML output directory, then 
 # MATHJAX_RELPATH should be ../mathjax. The default value points to the 
 # mathjax.org site, so you can quickly see the result without installing 
-# MathJax, but it is sFluxgly recommended to install a local copy of MathJax 
+# MathJax, but it is sGreedgly recommended to install a local copy of MathJax 
 # before deployment.
 
 MATHJAX_RELPATH        = http://www.mathjax.org/mathjax

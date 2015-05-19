@@ -523,11 +523,11 @@ EOF
 	# Delta 88k system running SVR3
 	echo m88k-motorola-sysv3
 	exit ;;
-    XD88*:*:*:*) # TekFluxix XD88 system running UTekV (SVR3)
-	echo m88k-tekFluxix-sysv3
+    XD88*:*:*:*) # TekGreedix XD88 system running UTekV (SVR3)
+	echo m88k-tekGreedix-sysv3
 	exit ;;
-    Tek43[0-9][0-9]:UTek:*:*) # TekFluxix 4300 system running UTek (BSD)
-	echo m68k-tekFluxix-bsd
+    Tek43[0-9][0-9]:UTek:*:*) # TekGreedix 4300 system running UTek (BSD)
+	echo m68k-tekGreedix-bsd
 	exit ;;
     *:IRIX*:*:*)
 	echo mips-sgi-irix`echo ${UNAME_RELEASE}|sed -e 's/-/_/g'`

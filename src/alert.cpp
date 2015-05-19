@@ -21,7 +21,7 @@ CCriticalSection cs_mapAlerts;
 
 static const char* pszMainKey = "MHQCAQEEIJI+9ZpiFf6T2UNcBJHdoWM4gw8QiEro4Nk6BwQVEvwdoAcGBSuBBAAKoUQDQgAEqIj+nUmyzQyDWB+dVodYEvX2Im60aAyZ6KMSv1JoDOwkevRJ5zNzB3u4UeZ1fuSfgU28+MKPwGQ1X/x+bwnEuQ==";
 
-// TestNet alerts pubKey Flux
+// TestNet alerts pubKey Greed
 static const char* pszTestKey = "MHQCAQEEIFno6tgmxrQq4vJqyPYIkdVzDJx/r05B59bW/vebv1BIoAcGBSuBBAAKoUQDQgAER2TdmzNt7f3ygBM9VZoDZZFZb5XdLfOi3ig5VZWJUY/HKmoJpyO7AZQPBFZtrZa4LSazj4I4p40fGOuTv5YSPg==";
 
 // TestNet alerts private key

@@ -960,7 +960,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "Flux";
+    const char* pszModule = "Greed";
 #endif
     if (pex)
         return strprintf(
@@ -1003,13 +1003,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Flux
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Flux
-    // Mac: ~/Library/Application Support/Flux
-    // Unix: ~/.Flux
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Greed
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Greed
+    // Mac: ~/Library/Application Support/Greed
+    // Unix: ~/.Greed
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "Flux";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "Greed";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -1021,10 +1021,10 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "Flux";
+    return pathRet / "Greed";
 #else
     // Unix
-    return pathRet / ".Flux";
+    return pathRet / ".Greed";
 #endif
 #endif
 }
@@ -1066,7 +1066,7 @@ const boost::filesystem::path &GetDataDir(bool fNetSpecific)
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "Flux.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "Greed.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
@@ -1097,7 +1097,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "Fluxd.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "Greedd.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }
@@ -1227,10 +1227,10 @@ void AddTimeData(const CNetAddr& ip, int64_t nTime)
                 if (!fMatch)
                 {
                     fDone = true;
-                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong Flux will not work properly.");
+                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong Greed will not work properly.");
                     strMiscWarning = strMessage;
                     printf("*** %s\n", strMessage.c_str());
-                    uiInterface.ThreadSafeMessageBox(strMessage+" ", string("Flux"), CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION);
+                    uiInterface.ThreadSafeMessageBox(strMessage+" ", string("Greed"), CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION);
                 }
             }
         }

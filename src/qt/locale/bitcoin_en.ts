@@ -5,19 +5,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Flux</source>
-        <translation>About Flux</translation>
+        <source>About Greed</source>
+        <translation>About Greed</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Flux&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Flux&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Greed&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Greed&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Flux developers</source>
+Copyright © 2014 The Greed developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -65,8 +65,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Flux addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your Flux addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your Greed addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your Greed addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Flux address</source>
-        <translation>Sign a message to prove you own a Flux address</translation>
+        <source>Sign a message to prove you own a Greed address</source>
+        <translation>Sign a message to prove you own a Greed address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Flux address</source>
-        <translation>Verify a message to ensure it was signed with a specified Flux address</translation>
+        <source>Verify a message to ensure it was signed with a specified Greed address</source>
+        <translation>Verify a message to ensure it was signed with a specified Greed address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Flux will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Flux will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>Greed will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Greed will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Flux</source>
-        <translation>Show information about Flux</translation>
+        <source>Show information about Greed</source>
+        <translation>Show information about Greed</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Flux address</source>
-        <translation>Send coins to a Flux address</translation>
+        <source>Send coins to a Greed address</source>
+        <translation>Send coins to a Greed address</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Flux</source>
-        <translation>Modify configuration options for Flux</translation>
+        <source>Modify configuration options for Greed</source>
+        <translation>Modify configuration options for Greed</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>Flux</source>
-        <translation>Flux</translation>
+        <source>Greed</source>
+        <translation>Greed</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Flux</source>
-        <translation>&amp;About Flux</translation>
+        <source>&amp;About Greed</source>
+        <translation>&amp;About Greed</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,15 +542,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Flux client</source>
-        <translation>Flux client</translation>
+        <source>Greed client</source>
+        <translation>Greed client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Flux network</source>
+        <source>%n active connection(s) to Greed network</source>
         <translation>
-            <numerusform>%n active connection to Flux network</numerusform>
-            <numerusform>%n active connections to Flux network</numerusform>
+            <numerusform>%n active connection to Greed network</numerusform>
+            <numerusform>%n active connections to Greed network</numerusform>
         </translation>
     </message>
     <message>
@@ -677,8 +677,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Flux address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid Flux address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Greed address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid Greed address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -749,8 +749,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Flux can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. Flux can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. Greed can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. Greed can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1069,8 +1069,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Flux address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Flux address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Greed address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid Greed address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1088,8 +1088,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Flux-Qt</source>
-        <translation>Flux-Qt</translation>
+        <source>Greed-Qt</source>
+        <translation>Greed-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1161,13 +1161,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Flux after logging in to the system.</source>
-        <translation>Automatically start Flux after logging in to the system.</translation>
+        <source>Automatically start Greed after logging in to the system.</source>
+        <translation>Automatically start Greed after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Flux on system login</source>
-        <translation>&amp;Start Flux on system login</translation>
+        <source>&amp;Start Greed on system login</source>
+        <translation>&amp;Start Greed on system login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1186,8 +1186,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Flux client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Flux client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Greed client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Greed client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1196,8 +1196,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Flux network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the Flux network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the Greed network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the Greed network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1271,8 +1271,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Flux.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Flux.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Greed.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting Greed.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1286,8 +1286,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Flux addresses in the transaction list or not.</source>
-        <translation>Whether to show Flux addresses in the transaction list or not.</translation>
+        <source>Whether to show Greed addresses in the transaction list or not.</source>
+        <translation>Whether to show Greed addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1333,8 +1333,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Flux.</source>
-        <translation>This setting will take effect after restarting Flux.</translation>
+        <source>This setting will take effect after restarting Greed.</source>
+        <translation>This setting will take effect after restarting Greed.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1352,8 +1352,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Flux network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Flux network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Greed network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Greed network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1568,8 +1568,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Flux-Qt help message to get a list with possible Flux command-line options.</source>
-        <translation>Show the Flux-Qt help message to get a list with possible Flux command-line options.</translation>
+        <source>Show the Greed-Qt help message to get a list with possible Greed command-line options.</source>
+        <translation>Show the Greed-Qt help message to get a list with possible Greed command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1588,13 +1588,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Flux - Debug window</source>
-        <translation>Flux - Debug window</translation>
+        <source>Greed - Debug window</source>
+        <translation>Greed - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Flux Core</source>
-        <translation>Flux Core</translation>
+        <source>Greed Core</source>
+        <translation>Greed Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1603,8 +1603,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Flux debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Flux debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the Greed debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the Greed debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1613,8 +1613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Flux RPC console.</source>
-        <translation>Welcome to the Flux RPC console.</translation>
+        <source>Welcome to the Greed RPC console.</source>
+        <translation>Welcome to the Greed RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1772,8 +1772,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Flux address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Enter a Flux address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Greed address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Enter a Greed address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1872,7 +1872,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Flux address</source>
+        <source>WARNING: Invalid Greed address</source>
         <translation></translation>
     </message>
     <message>
@@ -1946,8 +1946,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Flux address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Enter a Flux address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Greed address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Enter a Greed address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -2007,8 +2007,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Flux address</source>
-        <translation>Sign the message to prove you own this Flux address</translation>
+        <source>Sign the message to prove you own this Greed address</source>
+        <translation>Sign the message to prove you own this Greed address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2039,8 +2039,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Flux address</source>
-        <translation>Verify the message to ensure it was signed with the specified Flux address</translation>
+        <source>Verify the message to ensure it was signed with the specified Greed address</source>
+        <translation>Verify the message to ensure it was signed with the specified Greed address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2050,8 +2050,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Flux address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Enter a Flux address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Greed address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Enter a Greed address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2060,8 +2060,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Flux signature</source>
-        <translation>Enter Flux signature</translation>
+        <source>Enter Greed signature</source>
+        <translation>Enter Greed signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2643,8 +2643,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Flux version</source>
-        <translation>Flux version</translation>
+        <source>Greed version</source>
+        <translation>Greed version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2653,8 +2653,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Fluxd</source>
-        <translation>Send command to -server or Fluxd</translation>
+        <source>Send command to -server or Greedd</source>
+        <translation>Send command to -server or Greedd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2673,13 +2673,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Flux.conf)</source>
-        <translation>Specify configuration file (default: Flux.conf)</translation>
+        <source>Specify configuration file (default: Greed.conf)</source>
+        <translation>Specify configuration file (default: Greed.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Fluxd.pid)</source>
-        <translation>Specify pid file (default: Fluxd.pid)</translation>
+        <source>Specify pid file (default: Greedd.pid)</source>
+        <translation>Specify pid file (default: Greedd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2828,8 +2828,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Flux will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Flux will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Greed will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Greed will not work properly.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3017,13 +3017,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Fluxrpc
+rpcuser=Greedrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Flux Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Greed Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3149,13 +3149,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Flux Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Flux is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s.  Flux is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Greed is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s.  Greed is probably already running.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Flux</source>
-        <translation>Flux</translation>
+        <source>Greed</source>
+        <translation>Greed</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3189,13 +3189,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Flux Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Flux</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Flux</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Greed</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of Greed</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Flux to complete</source>
-        <translation>Wallet needed to be rewritten: restart Flux to complete</translation>
+        <source>Wallet needed to be rewritten: restart Greed to complete</source>
+        <translation>Wallet needed to be rewritten: restart Greed to complete</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3264,8 +3264,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Flux Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Flux is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. Flux is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. Greed is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. Greed is probably already running.</translation>
     </message>
     <message>
         <location line="-97"/>
