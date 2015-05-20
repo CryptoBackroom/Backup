@@ -2599,7 +2599,7 @@ bool LoadBlockIndex(bool fAllowNew)
 
         const char* pszTimestamp = "20 May 2015 - New York Stock Exchange Changing for Bitcoin";
         CTransaction txNew;
-        txNew.nTime = 1432100579;
+        txNew.nTime = 1432102163;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -2609,9 +2609,9 @@ bool LoadBlockIndex(bool fAllowNew)
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1432100579;
+        block.nTime    = 1432102163;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = 4169295;
+        block.nNonce   = 15827960;
         
     
         
@@ -2642,7 +2642,7 @@ bool LoadBlockIndex(bool fAllowNew)
         printf("block.nTime = %u \n", block.nTime);
         printf("block.nNonce = %u \n", block.nNonce);
 
-        assert(block.hashMerkleRoot == uint256("0x92fe34e32e7cf4f6263c86768cd6451048365f0d89409578a72a7c4556f2b529"));
+        assert(block.hashMerkleRoot == uint256("0x474ac6e3a220ce86cd6e1accf1a56725f06304a38d99a2d83f46ad98a548d43d"));
 	   
 	block.print();
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
