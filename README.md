@@ -37,7 +37,7 @@ P2P Port: 26926
 
 Block Reward Schedule - Proof of Work Phase
 -------------------------------------------
-**Block 0-2**
+**Block 0-1
 
     10 GREED Premine
 
