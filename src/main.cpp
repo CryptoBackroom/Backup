@@ -2597,7 +2597,7 @@ bool LoadBlockIndex(bool fAllowNew)
 
 
 
-        const char* pszTimestamp = "13 May 2015 - Some Relevant News Quote";
+        const char* pszTimestamp = "20 May 2015 - New York Stock Exchange Changing for Bitcoin";
         CTransaction txNew;
         txNew.nTime = 1432100579;
         txNew.vin.resize(1);
